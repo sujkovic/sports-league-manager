@@ -4,7 +4,6 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-//#include "Career.h"
 
 class Player {
  public:
@@ -27,8 +26,6 @@ class Player {
   int getRecentNum();
   void addCareer(string name, int num);
   void showCareerArray();
-  //Career &getCareer();
-  //void createCareer(string team, int num);
   void showCareer();
  private:
   string *careers;

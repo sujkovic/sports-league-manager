@@ -14,9 +14,6 @@ Player::Player(string fName, string lName, unsigned int num) {
   careersCapacity = 1;
   playerTeam = "";
   careers = new string[careersCapacity];
-
-  //WHEN DONE WITH DINNER AND SHIT, 
-  //ADD TEAM VARIABLE TO PLAYER OBJECT AND FINISH CAREER
 }
 
 Player::Player() {
@@ -29,7 +26,6 @@ Player::Player() {
   careersCapacity = 1;
   playerTeam = "";
   careers = new string[careersCapacity];
-  //playerTeam = new Team("", "", nullptr);
 }
 
 Player::~Player() {
@@ -139,10 +135,3 @@ void Player::showCareerArray() {
     cout << careers[i] << endl;
   }
 }
-
-/*
-Career &Player::getCareer() {
-  cout << "called getcareer" << endl;
-  return *careers;
-}
-*/

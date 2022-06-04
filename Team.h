@@ -19,7 +19,6 @@ class Team {
   void setTeamName(string name);
   void setTeamLocation(string name);
   void addPlayer(const Player &player);
- // void addPlayerWithTeam(Player &player, const string &career);
   void showTeam();
   void showTeamArray();
   Player &getPlayer(string name);

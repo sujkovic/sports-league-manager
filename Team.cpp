@@ -85,23 +85,6 @@ void Team::addPlayer(const Player &player) {
   numPlayers++;
   players = tempPlayers;
 }
-/*
-void Team::addPlayerWithTeam(Player &player, const string &career) {
-  if (numPlayers == playersCapacity) {
-    playersCapacity = playersCapacity * 2;
-  }
-  Player *tempPlayers;
-  tempPlayers = new Player[playersCapacity];
-  for (int i = 0; i < numPlayers; ++i) {
-    tempPlayers[i] = players[i];
-  }
-  delete []players;
-  player.addCareer(career);
-  tempPlayers[numPlayers] = player;
-  numPlayers++;
-  players = tempPlayers;
-}
-*/
 
 void Team::showTeam() {
   cout << teamLocation << " " << teamName << "";
@@ -117,20 +100,18 @@ Player &Team::getPlayer(string name) {
   int g;
   int index;
   for (g = 0; g < numPlayers; ++g) {
-    if (name == players[g].getLastName()) { //in team
+    if (name == players[g].getLastName()) {       //in team
       index = g;
     }
   }
-  //cout << players[index].getLastName() << endl;
   return players[index];
 }
 
 void Team::removePlayer(string name) {
   for (int i = 0; i < numPlayers; ++i) {
-    if (name == players[i].getLastName()) {
-      //delete players[i];
+    if (name == players[i].getLastName()) {       
       for (int j = i; j < numPlayers - 1; ++j) {
-        players[j] = players[j+1];
+        players[j] = players[j+1];                //delete players[i]
       }
     }
   }
@@ -163,31 +144,11 @@ bool Team::doesNumberExist(int num) {
 
 int Team::getLowestNumber() {
   int min = 1;
-  //check for a zero, if no zero return zero
   for (int i = 0; i <= numPlayers; ++i) {
     if (players[i].getPlayerNumber() == min) {
       min++;
-      //continue;
       i = 0;
     }
   }
   return min;
 }
-  
-/*
-int Team::getLowestNumber() {
-  int min = 0;
-  min = players[0].getPlayerNumber();
-  for (int i = 0; i < numPlayers; ++i) {
-    if (players[i].getPlayerNumber() > min) {
-      min = players[i].getPlayerNumber() - 1;
-    }
-  }
-  return min;
-}
-*/
-
-
-  //this is close to working but need case where all of the below are taken. ex player #0,1,2,3 and you try to add #2. it defaults to 0
-  //also need to add prefnum to player params
-  //i think that should be it

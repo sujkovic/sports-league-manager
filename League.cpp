@@ -8,11 +8,6 @@ League::League() {
   teamsLength = 0;
   teamsCapacity = 1;
   teams = new Team[teamsCapacity];
-  /*
-  agents.setTeamLocation("Free");
-  agents.setTeamName("Agents");
-  teams[0] = agents;
-  */
   agents = new Team("Free", "Agents");
 }
 
@@ -86,19 +81,5 @@ Player &League::findPlayer(string name) {
       return teams[g].getPlayer(name);
     }
   }
-  //return teams[index];
 }
 
-/*
-int League::findPlayer(string name) {
-  int g;
-  for (g = 0; g < teamsLength; ++g) {
-    //for (int k = 0; k < )
-    if (teams->doesPlayerExist(name) == true) {
-      return g;
-    }
-  }
-  return -1;
-  //return teams[index];
-}
-*/

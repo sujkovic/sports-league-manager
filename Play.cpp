@@ -5,7 +5,6 @@ using namespace std;
 #include "League.h"
 #include "Team.h"
 #include "Player.h"
-//#include "Career.h"
 
 
 Team playerTeam;
@@ -36,7 +35,6 @@ void do_player(string fname, string lname, int num, string tname) {
 	string playerCareer;											
 		if (league.doesTeamExist(tname) == false) {
 		cout << "Could not add the player to team " << tname;
-  			//break;
 		}
 		else {	
 			ourPlayer.setPlayerFirstName(fname);
@@ -45,22 +43,14 @@ void do_player(string fname, string lname, int num, string tname) {
 				ourPlayer.setPlayerNumber(num);
 				ourPlayer.setPrefNum(num);
 				ourPlayer.setRecentNum(num);
-			//playerCareer.setCareerNumber(num);
 			}
 			else {
 				ourPlayer.setPlayerNumber(league.compareTeam(tname).getLowestNumber());
 				ourPlayer.setPrefNum(league.compareTeam(tname).getLowestNumber());
 				ourPlayer.setRecentNum(league.compareTeam(tname).getLowestNumber());
-				//playerCareer.setCareerNumber(league.compareTeam(tname).getLowestNumber());
 			}
 			ourPlayer.setPlayerTeam(tname);
-			/*
-			playerCareer.setCareerTeam(tname);
-			playerCareer.showCareer();
-			ourPlayer.addCareer(playerCareer);
-			*/
   			league.compareTeam(tname).addPlayer(ourPlayer);
-			
 			league.compareTeam(tname).getPlayer(lname).addCareer(tname, league.compareTeam(tname).getPlayer(lname).getPlayerNumber());
 		}
 }
@@ -105,14 +95,13 @@ void do_releasePlayer(string name, string team) {
 	}
 	else {
 		agents->addPlayer(league.compareTeam(team).getPlayer(name));
-		league.compareTeam(team).removePlayer(name);							//may be incorrect, might need to do getPlayer in the remove parameters for real version
+		league.compareTeam(team).removePlayer(name);							
 		cout << "Release " << name << " from " << team << endl;
 		cout << "Player " << name << " added to free agents" << endl;
 	}
 }
 
 void do_signPlayer(string name, string team) {
-	//string playerCareer;
 	if (league.doesTeamExist(team) == false) {
 		cout << "Team " << team << " does not exist." << endl;
 	}
@@ -133,22 +122,8 @@ void do_signPlayer(string name, string team) {
 				agents->getPlayer(name).setRecentNum(league.compareTeam(team).getLowestNumber());
 			}
 		}
-		/*
-		league.compareTeam(team).getPlayer(name).getCareer().setCareerNumber(agents->getPlayer(name).getPlayerNumber());
-		agents->getPlayer(name).getCareer().setCareerTeam(team);
-		//agents->getPlayer(name).addCareer(playerCareer);
-		*/
-
-		/*
-		playerCareer.setCareerNumber(agents->getPlayer(name).getPlayerNumber());
-		playerCareer.setCareerTeam(team);
-		playerCareer.showCareer();
-		agents->getPlayer(name).addCareer(playerCareer);
-		*/
 		agents->getPlayer(name).addCareer(team, agents->getPlayer(name).getPlayerNumber());
-
 		league.compareTeam(team).addPlayer(agents->getPlayer(name));
-		//league.compareTeam(team).getPlayer(name).addCareer()
 		agents->removePlayer(name);
 	}
 }
@@ -200,7 +175,7 @@ int main() {
       else if (command.getOperation() == "Player") {		//	Players	//
 	  	  if (command.numArgs() < 3) {
 			  cout << endl << MISSING_ARGS << endl;
-		  }											//To do: add free agent functionality
+		  }											
 		  else if (command.numArgs() == 3) {
 			  if (Parser::isInteger(command.getArg3())) {
 				  int_param = stoi(command.getArg3());
