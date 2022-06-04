@@ -1,0 +1,644 @@
+Team Miami Heat
+Team Milwaukee Bucks
+Team Chicago Bulls
+Team Cleveland Cavaliers
+Team Philadelphia 76ers
+Team Toronto Rapters
+Team Boston Celtics
+Team Brooklyn Nets
+Team Charlotte Hornets
+Team Atlanta Hawks
+Team Washington Wizards
+Team NY Knicks
+Team Indiana Pacers
+Team Orlando Magic
+Team Detroit Pistons
+Team Phoenix Suns
+Team GoldenState Warriors
+Team Memphis Grizzlies
+Team Utah Jazz
+Team Dallas Mavericks
+Team Denver Nuggets
+Team Minnesota Timberwolves
+Team LA Clippers
+Team LosAngeles Lakers
+Team NewOrleans Pelicans
+Team Portland TrailBlazers
+Team Sacramento Kings
+Team SanAntonio Spurs
+Team OklahomaCity Thunder
+Team Houston Rockets
+Player Precious Achiuwa 5 Rapters
+Player Steven Adams 4 Grizzlies
+Player Bam Adebayo 13 Heat
+Player Santi Aldama 7 Grizzlies
+Player LaMarcus Aldridge 21 Nets
+Player Nickeil Alexander-Walker 6 Jazz
+Player Grayson Allen 7 Bucks
+Player Jarrett Allen_ 31 Cavaliers
+Player Jose Alvarado 15 Pelicans
+Player Justin Anderson 99
+Player Kyle Anderson_ 1 Grizzlies
+Player Giannis Antetokounmpo 34 Bucks
+Player Thanasis Antetokounmpo_ 43 Bucks
+Player Carmelo Anthony 7 Lakers
+Player Cole Anthony_ 50 Magic
+Player OG Anunoby 3 Rapters
+Player Ryan Arcidiacono 51 Knicks
+Player Trevor Ariza 1 Lakers
+Player D.J. Augustin 4 Lakers
+Player Deni Avdija 9 Wizards
+Player Joel Ayayi 17 Wizards
+Player Deandre Ayton 22 Suns
+Player Udoka Azubuike 20 Jazz
+Player Marvin Bagley-III 35 Pistons
+Player LaMelo Ball 2 Hornets
+Player Lonzo Ball_ 2 Bulls
+Player Mo Bamba 5 Magic
+Player Desmond Bane 22 Grizzlies
+Player Dalano Banton 45 Rapters
+Player Cat Barber 99
+Player Harrison Barnes 40 Kings
+Player Scottie Barnes_ 4 Rapters
+Player RJ Barrett 9 Knicks
+Player Will Barton 5 Nuggets
+Player Paris Bass 99
+Player Charles Bassey 23 76ers
+Player Keita Bates-Diop 31 Spurs
+Player Nicolas Batum 33 Clippers
+Player Kent Bazemore 9 Lakers
+Player Darius Bazley 7 Thunder
+Player Bradley Beal 3 Wizards
+Player Malik Beasley 5 Timberwolves
+Player Jordan Bell 99
+Player DeAndre Bembry 95 Bucks
+Player Davis Bertans 42 Mavericks
+Player Patrick Beverley 22 Timberwolves
+Player Saddiq Bey 41 Pistons
+Player Khem Birch 24 Rapters
+Player Goga Bitadze 88 Pacers
+Player Bismack Biyombo 18 Suns
+Player Nemanja Bjelica 8 Warriors
+Player Eric Bledsoe 5 TrailBlazers
+Player Keljin Blevins 21 TrailBlazers
+Player Bogdan Bogdanovic 13 Hawks
+Player Bojan Bogdanovic_ 44 Jazz
+Player Bol Bol 10 Magic
+Player Leandro Bolmaro 9 Timberwolves
+Player Isaac Bonga 17 Rapters
+Player Devin Booker 1 Suns
+Player Brandon Boston-Jr. 4 Clippers
+Player Chris Boucher 25 Rapters
+Player James Bouknight 5 Hornets
+Player Avery Bradley 20 Lakers
+Player Tony Bradley_ 13 Bulls
+Player Ignas Brazdeikis 17 Magic
+Player Mikal Bridges 25 Suns
+Player Miles Bridges_ 0 Hornets
+Player Oshae Brissett 12 Pacers
+Player Malcolm Brogdon 7 Pacers
+Player Armoni Brooks 7 Rapters
+Player Dillon Brooks_ 24 Grizzlies
+Player Bruce Brown 1 Nets
+Player Jaylen Brown_ 7 Celtics
+Player Moses Brown__ 99
+Player Sterling Brown___ 0 Mavericks
+Player Greg Brown-III 4 TrailBlazers
+Player Charlie Brown-Jr. 16 76ers
+Player Chaundee Brown-Jr._ 99
+Player Troy Brown-Jr.__ 7 Bulls
+Player Jalen Brunson 13 Mavericks
+Player Thomas Bryant 13 Wizards
+Player Shaq Buchanan 99
+Player Reggie Bullock 25 Mavericks
+Player Trey Burke 3 Mavericks
+Player Alec Burks 18 Knicks
+Player Jared Butler 13 Jazz
+Player Jimmy Butler_ 22 Heat
+Player Devontae Cacok 18 Spurs
+Player Kentavious Caldwell-Pope 1 Wizards
+Player Facundo Campazzo 7 Nuggets
+Player Vlatko Cancar 31 Nuggets
+Player Clint Capela 15 Hawks
+Player Vernon Carey-Jr. 22 Wizards
+Player Jevon Carter 5 Bucks
+Player Wendell Carter-Jr. 34 Magic
+Player Alex Caruso 6 Bulls
+Player Willie Cauley-Stein 99
+Player Ahmad Caver 99
+Player Justin Champagnie 11 Rapters
+Player Zylan Cheatham 99
+Player Chris Chiozza 2 Warriors
+Player Marquese Chriss 35 Mavericks
+Player Josh Christopher 9 Rockets
+Player Gary Clark 12 Pelicans
+Player Brandon Clarke 15 Grizzlies
+Player Jordan Clarkson 00 Jazz
+Player Nic Claxton 33 Nets
+Player Amir Coffey 7 Clippers
+Player John Collins 20 Hawks
+Player Zach Collins_ 23 Spurs
+Player Darren Collison 99
+Player Mike Conley 11 Jazz
+Player Pat Connaughton 24 Bucks
+Player Tyler Cook 25 Bulls
+Player Sharife Cooper 2 Hawks
+Player Petr Cornelie 99
+Player DeMarcus Cousins 4 Nuggets
+Player Robert Covington 23 Clippers
+Player Torrey Craig 0 Suns
+Player Jae Crowder 99 Suns
+Player Jarrett Culver 23 Grizzlies
+Player Jarron Cumberland 99
+Player Cade Cunningham 2 Pistons
+Player Seth Curry 30 Nets
+Player Stephen Curry_ 30 Warriors
+Player Anthony Davis 3 Lakers
+Player Ed Davis_ 21 Cavaliers
+Player Terence Davis__ 3 Kings
+Player Javin DeLaurier 99
+Player DeMar DeRozan 11 Bulls
+Player Gabriel Deck 99
+Player Dewayne Dedmon 21 Heat
+Player Sam Dekker 99
+Player Donte DiVincenzo 0 Kings
+Player Mamadi Diakite 99
+Player Cheick Diallo 99
+Player Hamidou Diallo_ 6 Pistons
+Player Gorgui Dieng 10 Hawks
+Player Spencer Dinwiddie 26 Mavericks
+Player Luka Doncic 77 Mavericks
+Player Luguentz Dort 5 Thunder
+Player Ayo Dosunmu 12 Bulls
+Player Damyean Dotson 99
+Player Devon Dotson_ 99
+Player Sekou Doumbouya 99
+Player Jeff Dowtin 99
+Player P.J. Dozier 99
+Player Goran Dragic 9 Nets
+Player Andre Drummond 0 Nets
+Player Chris Duarte 3 Pacers
+Player David Duke-Jr. 6 Nets
+Player Kevin Durant 7 Nets
+Player Jaime Echenique 99
+Player Anthony Edwards 1 Timberwolves
+Player Kessler Edwards_ 14 Nets
+Player Rob Edwards__ 99
+Player CJ Elleby 16 TrailBlazers
+Player Wayne Ellington 2 Lakers
+Player Joel Embiid 21 76ers
+Player James Ennis-III 99
+Player Drew Eubanks 14 TrailBlazers
+Player Tacko Fall 99
+Player Derrick Favors 15 Thunder
+Player Bruno Fernando 20 Rockets
+Player Dorian Finney-Smith 10 Mavericks
+Player Malik Fitts 24 Celtics
+Player Malachi Flynn 22 Rapters
+Player Bryn Forbes 6 Nuggets
+Player Aleem Ford 99
+Player Trent Forrest 3 Jazz
+Player Evan Fournier 13 Knicks
+Player De'Aaron Fox 5 Kings
+Player Tim Frazier 99
+Player Enes Freedom 99
+Player Markelle Fultz 20 Magic
+Player Wenyen Gabriel 35 Lakers
+Player Daniel Gafford 21 Wizards
+Player Danilo Gallinari 8 Hawks
+Player Langston Galloway 99
+Player Darius Garland 10 Cavaliers
+Player Marcus Garrett 99
+Player Usman Garuba 16 Rockets
+Player Luka Garza 55 Pistons
+Player Rudy Gay 8 Jazz
+Player Paul George 13 Clippers
+Player Taj Gibson 67 Knicks
+Player Josh Giddey 3 Thunder
+Player Shai Gilgeous-Alexander 2 Thunder
+Player Anthony Gill 16 Wizards
+Player Freddie Gillespie 99
+Player Rudy Gobert 27 Jazz
+Player Brandon Goodwin 00 Cavaliers
+Player Jordan Goodwin_ 99
+Player Aaron Gordon 50 Nuggets
+Player Eric Gordon_ 10 Rockets
+Player Devonte' Graham 4 Pelicans
+Player Jerami Grant 9 Pistons
+Player Hassani Gravett 99
+Player Danny Green 14 76ers
+Player Draymond Green_ 23 Warriors
+Player JaMychal Green__ 0 Nuggets
+Player Jalen Green___ 0 Rockets
+Player Javonte Green____ 24 Bulls
+Player Jeff Green_____ 32 Nuggets
+Player Josh Green______ 8 Mavericks
+Player Blake Griffin 2 Nets
+Player Quentin Grimes 6 Knicks
+Player Kyle Guy 5 Heat
+Player Rui Hachimura 8 Wizards
+Player Tyrese Haliburton 0 Pacers
+Player Tyler Hall 99
+Player R.J. Hampton 13 Magic
+Player Tim Hardaway-Jr. 11 Mavericks
+Player James Harden 1 76ers
+Player Maurice Harkless 8 Kings
+Player Jared Harper 99
+Player Montrezl Harrell 6 Hornets
+Player Gary Harris 14 Magic
+Player Joe Harris_ 12 Nets
+Player Tobias Harris__ 12 76ers
+Player Shaquille Harrison 99
+Player Josh Hart 11 TrailBlazers
+Player Isaiah Hartenstein 55 Clippers
+Player Udonis Haslem 40 Heat
+Player Sam Hauser 30 Celtics
+Player Jaxson Hayes 10 Pelicans
+Player Killian Hayes_ 7 Pistons
+Player Gordon Hayward 20 Hornets
+Player Aaron Henry 99
+Player Juancho Hernangomez 41 Jazz
+Player Willy Hernangomez_ 9 Pelicans
+Player Tyler Herro 14 Heat
+Player Buddy Hield 24 Pacers
+Player Haywood Highsmith 99
+Player George Hill 3 Bucks
+Player Malcolm Hill_ 14 Bulls
+Player Solomon Hill__ 99
+Player Nate Hinton 99
+Player Jaylen Hoard 99
+Player Aaron Holiday 4 Suns
+Player Jrue Holiday_ 21 Bucks
+Player Justin Holiday__ 9 Kings
+Player Richaun Holmes 22 Kings
+Player Rodney Hood 22 Clippers
+Player Scotty Hopson 99
+Player Al Horford 42 Celtics
+Player Talen Horton-Tucker 5 Lakers
+Player Danuel House-Jr. 25 Jazz
+Player Dwight Howard 39 Lakers
+Player Markus Howard_ 00 Nuggets
+Player Kevin Huerter 3 Hawks
+Player Jay Huff 99
+Player Elijah Hughes 19 TrailBlazers
+Player De'Andre Hunter 12 Hawks
+Player Chandler Hutchison 99
+Player Bones Hyland 3 Nuggets
+Player Serge Ibaka 25 Bucks
+Player Andre Iguodala 9 Warriors
+Player Joe Ingles 00 TrailBlazers
+Player Brandon Ingram 14 Pelicans
+Player Kyrie Irving 11 Nets
+Player Jonathan Isaac 1 Magic
+Player Wes Iwundu 99
+Player Frank Jackson 5 Pistons
+Player Isaiah Jackson_ 23 Pacers
+Player Josh Jackson__ 55 Kings
+Player Justin Jackson___ 99
+Player Reggie Jackson____ 1 Clippers
+Player Jaren Jackson-Jr. 13 Grizzlies
+Player LeBron James 6 Lakers
+Player DeJon Jarreau 99
+Player DaQuan Jeffries 99
+Player Ty Jerome 16 Thunder
+Player Isaiah Joe 7 76ers
+Player Alize Johnson 22 Pelicans
+Player BJ Johnson_ 99
+Player Cameron Johnson__ 23 Suns
+Player David Johnson___ 13 Rapters
+Player Jalen Johnson____ 1 Hawks
+Player James Johnson_____ 16 Nets
+Player Joe Johnson______ 99
+Player Keldon Johnson_______ 3 Spurs
+Player Keon Johnson________ 6 TrailBlazers
+Player Stanley Johnson_________ 14 Lakers
+Player Tyler Johnson__________ 99
+Player Nikola Jokic 15 Nuggets
+Player Carlik Jones 99
+Player Damian Jones_ 30 Kings
+Player Herbert Jones__ 5 Pelicans
+Player Jemerrio Jones___ 99
+Player Kai Jones____ 23 Hornets
+Player Mason Jones_____ 40 Lakers
+Player Tre Jones______ 33 Spurs
+Player Tyus Jones_______ 21 Grizzlies
+Player Derrick Jones-Jr. 5 Bulls
+Player DeAndre Jordan 9 76ers
+Player Cory Joseph 18 Pistons
+Player Georgios Kalaitzakis 99
+Player Frank Kaminsky 8 Suns
+Player Luke Kennard 5 Clippers
+Player Braxton Key 99
+Player George King 99
+Player Louis King_ 99
+Player Corey Kispert 24 Wizards
+Player Maxi Kleber 42 Mavericks
+Player Brandon Knight 99
+Player Nathan Knight_ 13 Timberwolves
+Player Kevin Knox-II 5 Hawks
+Player John Konchar 46 Grizzlies
+Player Furkan Korkmaz 30 76ers
+Player Luke Kornet 40 Celtics
+Player Vit Krejci 27 Thunder
+Player Arnoldas Kulboka 98 Hornets
+Player Jonathan Kuminga 00 Warriors
+Player Kyle Kuzma 33 Wizards
+Player Zach LaVine 8 Bulls
+Player Anthony Lamb 99
+Player Jeremy Lamb_ 26 Kings
+Player Jock Landale 34 Spurs
+Player Romeo Langford 35 Spurs
+Player Jake Layman 10 Timberwolves
+Player Caris LeVert 3 Cavaliers
+Player Damion Lee 1 Warriors
+Player Saben Lee_ 38 Pistons
+Player Alex Len 25 Kings
+Player Kawhi Leonard 2 Clippers
+Player Scottie Lewis 16 Hornets
+Player Kira Lewis-Jr. 13 Pelicans
+Player Damian Lillard 0 TrailBlazers
+Player Nassir Little 9 TrailBlazers
+Player Isaiah Livers 12 Pistons
+Player Kevon Looney 5 Warriors
+Player Brook Lopez 11 Bucks
+Player Robin Lopez_ 33 Magic
+Player Didi Louzada 35 TrailBlazers
+Player Kevin Love 0 Cavaliers
+Player Kyle Lowry 7 Heat
+Player Timothe Luwawu-Cabarrot 7 Hawks
+Player Trey Lyles 41 Kings
+Player Theo Maledon 11 Thunder
+Player Sandro Mamukelashvili 54 Bucks
+Player Terance Mann 14 Clippers
+Player Tre Mann_ 23 Thunder
+Player Boban Marjanovic 51 Mavericks
+Player Lauri Markkanen 24 Cavaliers
+Player Naji Marshall 8 Pelicans
+Player Caleb Martin 16 Heat
+Player Cody Martin_ 11 Hornets
+Player Kelan Martin__ 21 Celtics
+Player Kenyon Martin-Jr. 6 Rockets
+Player Garrison Mathews 25 Rockets
+Player Dakota Mathias 99
+Player Wesley Matthews 23 Bucks
+Player Tyrese Maxey 0 76ers
+Player Skylar Mays 4 Hawks
+Player Miles McBride 2 Knicks
+Player Mac McClung 99
+Player CJ McCollum 3 Pelicans
+Player T.J. McConnell 9 Pacers
+Player Jaden McDaniels 3 Timberwolves
+Player Jalen McDaniels_ 6 Hornets
+Player Doug McDermott 17 Spurs
+Player JaVale McGee 00 Suns
+Player Cameron McGriff 99
+Player Rodney McGruder 17 Pistons
+Player Alfonzo McKinnie 99
+Player JaQuori McLaughlin 99
+Player Jordan McLaughlin_ 6 Timberwolves
+Player Ben McLemore 23 TrailBlazers
+Player De'Anthony Melton 0 Grizzlies
+Player Sam Merrill 99
+Player Chimezie Metu 7 Kings
+Player Khris Middleton 22 Bucks
+Player CJ Miles 99
+Player Patty Mills 8 Nets
+Player Paul Millsap 8 76ers
+Player Shake Milton 18 76ers
+Player Davion Mitchell 15 Kings
+Player Donovan Mitchell_ 45 Jazz
+Player Evan Mobley 4 Cavaliers
+Player Malik Monk 11 Lakers
+Player Greg Monroe 99
+Player Moses Moody 4 Warriors
+Player Xavier Moon 99
+Player Matt Mooney 99
+Player Ja Morant 12 Grizzlies
+Player Juwan Morgan 99
+Player Jaylen Morris 99
+Player Markieff Morris_ 8 Heat
+Player Monte Morris__ 11 Nuggets
+Player Marcus Morris-Sr. 8 Clippers
+Player Emmanuel Mudiay 99
+Player Mychal Mulder 99
+Player Ade Murkey 99
+Player Trey Murphy-III 25 Pelicans
+Player Dejounte Murray 5 Spurs
+Player Jamal Murray_ 27 Nuggets
+Player Mike Muscala 33 Thunder
+Player Svi Mykhailiuk 14 Rapters
+Player Abdel Nader 99
+Player Larry Nance-Jr. 22 Pelicans
+Player RJ Nembhard-Jr. 5 Cavaliers
+Player Aaron Nesmith 26 Celtics
+Player Raul Neto 19 Wizards
+Player Malik Newman 99
+Player Georges Niang 20 76ers
+Player Daishen Nix 15 Rockets
+Player Zeke Nnaji 22 Nuggets
+Player Nerlens Noel 3 Knicks
+Player Jaylen Nowell 4 Timberwolves
+Player Frank Ntilikina 21 Mavericks
+Player Kendrick Nunn 12 Lakers
+Player Jusuf Nurkic 27 TrailBlazers
+Player David Nwaba 2 Rockets
+Player Jordan Nwora 13 Bucks
+Player Royce O'Neale 23 Jazz
+Player Semi Ojeleye 37 Clippers
+Player Chuma Okeke 3 Magic
+Player Josh Okogie 20 Timberwolves
+Player Onyeka Okongwu 17 Hawks
+Player Isaac Okoro 35 Cavaliers
+Player KZ Okpala 99
+Player Victor Oladipo 4 Heat
+Player Cameron Oliver 99
+Player Kelly Olynyk 13 Pistons
+Player Eugene Omoruyi 99
+Player Miye Oni 99
+Player Cedi Osman 16 Cavaliers
+Player Daniel Oturu 99
+Player Kelly Oubre-Jr. 12 Hornets
+Player Jaysean Paige 99
+Player Trayvon Palmer 99
+Player Kevin Pangos 99
+Player Jabari Parker 99
+Player Eric Paschall 0 Jazz
+Player Chris Paul 3 Suns
+Player Cameron Payne 15 Suns
+Player Elfrid Payton 2 Suns
+Player Gary Payton-II 0 Warriors
+Player Norvel Pelle 99
+Player Reggie Perry 99
+Player Jamorko Pickett 24 Pistons
+Player Theo Pinson 21 Mavericks
+Player Mason Plumlee 24 Hornets
+Player Jakob Poeltl 25 Spurs
+Player Aleksej Pokusevski 17 Thunder
+Player Yves Pons 5 Grizzlies
+Player Jordan Poole 3 Warriors
+Player Kevin Porter-Jr. 3 Rockets
+Player Michael Porter-Jr._ 1 Nuggets
+Player Otto Porter-Jr.__ 32 Warriors
+Player Bobby Portis 9 Bucks
+Player Kristaps Porzingis 6 Wizards
+Player Micah Potter 99
+Player Dwight Powell 7 Mavericks
+Player Myles Powell_ 5 76ers
+Player Norman Powell__ 24 Clippers
+Player Jason Preston 17 Clippers
+Player Joshua Primo 11 Spurs
+Player Taurean Prince 12 Timberwolves
+Player Payton Pritchard 11 Celtics
+Player Trevelin Queen 21 Rockets
+Player Neemias Queta 88 Kings
+Player Immanuel Quickley 5 Knicks
+Player Jahmi'us Ramsey 99
+Player Julius Randle 30 Knicks
+Player Austin Reaves 15 Lakers
+Player Cam Reddish 21 Knicks
+Player Davon Reed 9 Nuggets
+Player Paul Reed_ 44 76ers
+Player Naz Reid 11 Timberwolves
+Player Nick Richards 14 Hornets
+Player Josh Richardson 7 Spurs
+Player Austin Rivers 25 Nuggets
+Player Duncan Robinson 55 Heat
+Player Justin Robinson_ 99
+Player Mitchell Robinson__ 23 Knicks
+Player Jeremiah Robinson-Earl 50 Thunder
+Player Isaiah Roby 22 Thunder
+Player Rajon Rondo 1 Cavaliers
+Player Derrick Rose 4 Knicks
+Player Terrence Ross 31 Magic
+Player Terry Rozier 3 Hornets
+Player Ricky Rubio 99 Pacers
+Player D'Angelo Russell 0 Timberwolves
+Player Matt Ryan 37 Celtics
+Player Domantas Sabonis 10 Kings
+Player Luka Samanic 91 Knicks
+Player Dario Saric 20 Suns
+Player Olivier Sarr 30 Thunder
+Player Tomas Satoransky 31 Wizards
+Player Jordan Schakel 99
+Player Admiral Schofield 25 Magic
+Player Dennis Schroder 17 Rockets
+Player Trevon Scott 99
+Player Jay Scrubb 0 Clippers
+Player Wayne Selden 99
+Player Alperen Sengun 28 Rockets
+Player Collin Sexton 2 Cavaliers
+Player Landry Shamet 14 Suns
+Player Day'Ron Sharpe 20 Nets
+Player Pascal Siakam 43 Rapters
+Player Chris Silva 99
+Player Ben Simmons 10 Nets
+Player Marko Simonovic 19 Bulls
+Player Anfernee Simons 1 TrailBlazers
+Player Jericho Sims 45 Knicks
+Player Deividas Sirvydis 99
+Player Javonte Smart 15 Heat
+Player Marcus Smart_ 36 Celtics
+Player Chris Smith 0 Pistons
+Player Ish Smith_ 10 Wizards
+Player Jalen Smith__ 25 Pacers
+Player Dennis Smith-Jr. 99
+Player Xavier Sneed 21 Jazz
+Player Tony Snell 21 Pelicans
+Player Jaden Springer 11 76ers
+Player Cassius Stanley 99
+Player Nik Stauskas 9 Celtics
+Player Lance Stephenson 6 Pacers
+Player Lamar Stevens 8 Cavaliers
+Player DJ Stewart 18 Spurs
+Player Isaiah Stewart_ 28 Pistons
+Player Max Strus 31 Heat
+Player Jalen Suggs 4 Magic
+Player Craig Sword 99
+Player Keifer Sykes 28 Pacers
+Player Jae'Sean Tate 8 Rockets
+Player Jayson Tatum 0 Celtics
+Player Terry Taylor 32 Pacers
+Player Garrett Temple 41 Pelicans
+Player Emanuel Terry 99
+Player Tyrell Terry_ 3 Grizzlies
+Player Jon Teske 99
+Player Daniel Theis 27 Celtics
+Player Brodric Thomas 97 Celtics
+Player Cam Thomas_ 24 Nets
+Player Isaiah Thomas__ 31 Hornets
+Player Matt Thomas___ 21 Bulls
+Player Klay Thompson 11 Warriors
+Player Tristan Thompson_ 3 Bulls
+Player JT Thor 21 Hornets
+Player Matisse Thybulle 22 76ers
+Player Killian Tillie 35 Grizzlies
+Player Xavier Tillman 2 Grizzlies
+Player Isaiah Todd 14 Wizards
+Player Obi Toppin 1 Knicks
+Player Juan Toscano-Anderson 95 Warriors
+Player Karl-Anthony Towns 32 Timberwolves
+Player Gary Trent-Jr. 33 Rapters
+Player P.J. Tucker 17 Heat
+Player Rayjon Tucker_ 99
+Player Myles Turner 33 Pacers
+Player Jonas Valanciunas 17 Pelicans
+Player Denzel Valentine 99
+Player Fred VanVleet 23 Rapters
+Player Jarred Vanderbilt 8 Timberwolves
+Player Devin Vassell 24 Spurs
+Player Gabe Vincent 2 Heat
+Player Nikola Vucevic 9 Bulls
+Player Dean Wade 32 Cavaliers
+Player Franz Wagner 22 Magic
+Player Moritz Wagner_ 21 Magic
+Player Ish Wainright 12 Suns
+Player Kemba Walker 8 Knicks
+Player MJ Walker_ 99
+Player Lonnie Walker-IV 1 Spurs
+Player John Wall 1 Rockets
+Player Derrick Walton-Jr. 99
+Player Brad Wanamaker 99
+Player T.J. Warren 1 Pacers
+Player P.J. Washington 25 Hornets
+Player Duane Washington-Jr. 4 Pacers
+Player Yuta Watanabe 18 Rapters
+Player Tremont Waters 99
+Player Lindy Waters-III 12 Thunder
+Player Trendon Watford 2 TrailBlazers
+Player Paul Watson 99
+Player Quinndary Weatherspoon 15 Warriors
+Player Russell Westbrook 0 Lakers
+Player Coby White 0 Bulls
+Player Derrick White_ 9 Celtics
+Player Hassan Whiteside 21 Jazz
+Player Joe Wieskamp 15 Spurs
+Player Aaron Wiggins 21 Thunder
+Player Andrew Wiggins_ 22 Warriors
+Player Lindell Wigginton 28 Bucks
+Player Brandon Williams 8 TrailBlazers
+Player Grant Williams_ 12 Celtics
+Player Kenrich Williams__ 34 Thunder
+Player Lou Williams___ 6 Hawks
+Player Patrick Williams____ 44 Bulls
+Player Ziaire Williams_____ 8 Grizzlies
+Player Robert Williams-III 44 Celtics
+Player Zion Williamson 1 Pelicans
+Player D.J. Wilson 99
+Player Dylan Windler 9 Cavaliers
+Player Justise Winslow 26 TrailBlazers
+Player Cassius Winston 5 Wizards
+Player James Wiseman 33 Warriors
+Player Christian Wood 35 Rockets
+Player Robert Woodard-II 17 Spurs
+Player Delon Wright 0 Hawks
+Player Moses Wright_ 5 Mavericks
+Player McKinley Wright-IV 25 Timberwolves
+Player Thaddeus Young 21 Rapters
+Player Trae Young_ 11 Hawks
+Player Omer Yurtseven 77 Heat
+Player Cody Zeller 99
+Player Ivica Zubac 40 Clippers
+Roster Lakers
+Roster Knicks
+Roster
+Quit
