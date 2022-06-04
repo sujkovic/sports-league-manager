@@ -1,4 +1,4 @@
-# Sports League Managin Software Using C++
+# Sports League Managing Software Using C++
 
 This program supports creating a league, players, and teams, in addition 
 to signing/releasing players from teams, moving players between teams, and 
